@@ -1,5 +1,6 @@
 # Mixed-Reality-With-OpenCV-and-Three.js
-**Idea**: create a mixed reality experience where a virtual light in a 3D scene is controlled in real-time by tracking the movement and orientation of a real object from a webcam stream
+**Idea**: create a mixed reality experience where a virtual light in a 3D scene is controlled in real-time by tracking the movement and orientation of a real object from a webcam stream.
+
 The following packages are required: **numpy, opencv, SimpleWebSocketServer1**
 1. run `pip install -r requirements.txt`
 2. Before running anything, print chessboard.svg or save it on your phone.
